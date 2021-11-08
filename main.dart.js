@@ -2990,7 +2990,7 @@ case 2:q=$.agH()
 p=$.ait()
 if($.af==null)N.a9r()
 o=$.af
-o.K3(new U.ry("/home","Application",p,q,null))
+o.K3(new U.ry("/home","\u0420\u0430\u0431\u043e\u0442\u044b \u0415\u043b\u0438\u0437\u0430\u0432\u0435\u0442\u044b \u041b\u0438\u043a\u0438\u0439\u0441\u043a\u043e\u0439",p,q,null))
 o.zA()
 return P.W(null,r)}})
 return P.X($async$a6X,r)},
